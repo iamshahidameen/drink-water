@@ -8,7 +8,7 @@
 
 An App which tracks the 8 Glasses of water to drink. I have used event listeners and forEach loop to update the daily cups on clicking.
 
-Project Demo: [https://expanded-cards-by-shahid.netlify.app/](https://expanded-cards-by-shahid.netlify.app/)
+Project Demo: [https://drink-water-by-shahid.netlify.app/](https://drink-water-by-shahid.netlify.app/)
 
 ## Hi, I'm Shahid! 👋
 
@@ -45,7 +45,6 @@ I’m a perfectionist to the smallest pixel and I always take care of responsive
 
 ## Credits
 
-- [Brad Traversy](https://github.com/bradtraversy)
 - [50 Projects 50 Days](https://50projects50days.com)
 
 ## Questions?
